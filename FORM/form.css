@@ -1,0 +1,24 @@
+.formdiv{
+    display: flex;
+    justify-content: center;
+    inset: 0;
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+}
+fieldset{
+    background-color: #eeeeee;
+}
+legend{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+input{
+    margin: 5px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
